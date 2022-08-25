@@ -1,1 +1,3 @@
-theme: minima
+# Building settings
+markdown: kramdown
+theme: benbalter/retlab
